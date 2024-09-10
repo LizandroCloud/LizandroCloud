@@ -8,7 +8,7 @@
 <div align="center">
     <!-- Replace href with your links -->
     <p> Connect with me</p>
-    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/lizandro-santos-80aa215b//">
+    <a href="https://www.linkedin.com/in/https:/https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BOCLlulFQRDigs4b1Z5yykg%3D%3D/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
